@@ -5,9 +5,9 @@ Make sure to point to the DC and specify the full domain name<br/>
 Be careful the rid 500 might not be "Administrator"<br/>
 
 
-Usage:
-crackmapexec smb IP -u USER -d DOMAIN.COM -H NTLM-HASH -M laps
-crackmapexec smb IP -u USER -d DOMAIN.COM -p CLEAR-TEXT -M laps
+Usage:<br/>
+crackmapexec smb IP -u USER -d DOMAIN.COM -H NTLM-HASH -M laps<br/>
+crackmapexec smb IP -u USER -d DOMAIN.COM -p CLEAR-TEXT -M laps<br/>
 
 
 
