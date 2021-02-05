@@ -31,5 +31,5 @@ byt3bl33d3r
       
 Credit:
       @n00py1
-      Credit Reference: https://www.n00py.io/2020/12/dumping-laps-passwords-from-linux/
+      Credit Reference: https://www.n00py.io/2020/12/dumping-laps-passwords-from-linux/<br/>
       Credit https://github.com/n00py/LAPSDumper
