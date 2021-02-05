@@ -23,7 +23,7 @@ crackmapexec smb IP -u USER -d DOMAIN.COM -p CLEAR-TEXT -M laps<br/>
 
 
 
-Module by technobro
+Module by technobro<br/>
       Grazie: per CME
 byt3bl33d3r
 @snowscan
