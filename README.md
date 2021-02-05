@@ -11,7 +11,7 @@ crackmapexec smb IP -u USER -d DOMAIN.COM -p CLEAR-TEXT -M laps<br/>
 
 
 
-
+![Alt text](blob/main/cme-laps.PNG?raw=true "Title")
 
 
 
