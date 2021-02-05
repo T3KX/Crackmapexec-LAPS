@@ -11,14 +11,11 @@ Be careful the rid 500 might not be "Administrator"
 
 
 
-Module by technobro<br/>
-
-      Grazie: per CME <br/>
-
-      
-      byt3bl33d3r<br/>
-      @snowscan<br/>
-      @HackAndDo<br/>
+Module by technobro
+      Grazie: per CME
+byt3bl33d3r
+@snowscan
+@HackAndDo
       
 Credit:
       @n00py1
