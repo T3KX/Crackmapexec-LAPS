@@ -75,18 +75,7 @@ class CMEModule:
 
 
 
-        # for entry in c.entries:
-        #     #print (str(entry['sAMAccountName']) +":"+ str(entry['ms-Mcs-AdmPwd']))
 
-        #     output = (str(entry['sAMAccountName']) +":"+ str(entry['ms-Mcs-AdmPwd']))
-        
-        #     context.log.highlight(output)
-
-
-        # for entry in c.entries:
-        #     context.db.add_credential("plaintext",connection.domain, str(entry['sAMAccountName']), str(entry['ms-Mcs-AdmPwd']))
-
-        #     context.log.highlight("%s\\%s %s" % (entry['sAMAccountName'], "Administrator", entry['ms-Mcs-AdmPwd']))
 
 
         for entry in c.entries:
