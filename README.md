@@ -13,7 +13,7 @@ crackmapexec smb IP -u USER -d DOMAIN.COM -p CLEAR-TEXT -M laps<br/>
 
 
 
-![Screenshot](cme-lapsx.PNG)
+![Screenshot](cme-lapsxx.PNG)
 
 
 
