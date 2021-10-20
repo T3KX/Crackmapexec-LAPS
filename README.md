@@ -7,8 +7,8 @@ Be careful the rid 500 might not be "Administrator"<br/>
 
 
 Usage:<br/>
-crackmapexec smb IP -u USER -d DOMAIN.COM -H NTLM-HASH -M laps<br/>
-crackmapexec smb IP -u USER -d DOMAIN.COM -p CLEAR-TEXT -M laps<br/>
+crackmapexec ldap IP -u USER -d DOMAIN.COM -H NTLM-HASH -M laps<br/>
+crackmapexec ldap IP -u USER -d DOMAIN.COM -p CLEAR-TEXT -M laps<br/>
 
 
 
